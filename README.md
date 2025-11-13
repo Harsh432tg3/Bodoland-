@@ -38,4 +38,6 @@ To study model performance under different conditions:
 - **Notebook**: `diff_noise_lvl_and_varying_dataset.ipynb`
 - **Purpose**: Examines how accuracy, precision, recall, and F1-score vary with:
   - Different noise levels
-  - Varying dataset 
+  - Varying dataset sizes
+- **Models Compared**: LLM-ARFE, KNN, LR, SVC
+
